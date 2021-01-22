@@ -1,3 +1,3 @@
-# Projeto Página Incial do Instagram
+# Página Inicial do Instagram
 
 
